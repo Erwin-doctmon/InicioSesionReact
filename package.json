@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "login-react",
   "private": true,
   "version": "0.0.0",
@@ -26,8 +25,8 @@
     "globals": "^16.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
-    "vite": "^7.0.4"
-=======
+    "vite": "^7.0.4",
+
   "name": "login_node",
   "version": "1.0.0",
   "main": "index.js",
@@ -43,6 +42,6 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "mysql": "^2.18.1"
->>>>>>> d59b1d9 (Inicio de sesión - NODE.JS - 31/07/2025)
+
   }
 }
